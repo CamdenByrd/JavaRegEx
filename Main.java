@@ -1,5 +1,3 @@
-//Camden Byrd
-//1001829015
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
